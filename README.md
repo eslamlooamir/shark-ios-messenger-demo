@@ -28,6 +28,12 @@ This project demonstrates production-level UI design, real-time messaging archit
 ### Chat Detail
 ![Chat Detail](assets/screenshots/chat_detail.png)
 
+### Calls
+![Calls](assets/screenshots/calls.png)
+
+### Settings
+![Settings](assets/screenshots/settings.png)
+
 ---
 
 ## 🛠 Tech Stack
