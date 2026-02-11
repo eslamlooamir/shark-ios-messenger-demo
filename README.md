@@ -13,7 +13,6 @@ This project demonstrates production-level UI design, real-time messaging archit
 - Chat list & chat detail screen
 - Real-time messaging (WebSocket)
 - Calls screen (voice & video logs)
-- Trends (future expandable feature)
 - Settings with user preferences
 - FastAPI backend with SQLite
 - REST + WebSocket integration
