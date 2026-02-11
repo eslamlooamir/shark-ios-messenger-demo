@@ -23,10 +23,10 @@ This project demonstrates production-level UI design, real-time messaging archit
 ## 📱 Screenshots
 
 ### Chat List
-![Chat List](assets/screenshots/Screenshot.png)
+![Chat List](assets/screenshots/chat_list.png)
 
 ### Chat Detail
-![Chat Detail](assets/screenshots/Screenshot 2.png)
+![Chat Detail](assets/screenshots/chat_detail.png)
 
 ---
 
